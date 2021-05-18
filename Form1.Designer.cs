@@ -43,9 +43,9 @@ namespace Sandwich_Adventure
             // 
             // imageBox
             // 
-            this.imageBox.Location = new System.Drawing.Point(75, 135);
+            this.imageBox.Location = new System.Drawing.Point(75, 160);
             this.imageBox.Name = "imageBox";
-            this.imageBox.Size = new System.Drawing.Size(551, 261);
+            this.imageBox.Size = new System.Drawing.Size(551, 236);
             this.imageBox.TabIndex = 0;
             this.imageBox.TabStop = false;
             // 
@@ -54,7 +54,7 @@ namespace Sandwich_Adventure
             this.outputLabel.Font = new System.Drawing.Font("MS Reference Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputLabel.Location = new System.Drawing.Point(12, 18);
             this.outputLabel.Name = "outputLabel";
-            this.outputLabel.Size = new System.Drawing.Size(681, 87);
+            this.outputLabel.Size = new System.Drawing.Size(681, 139);
             this.outputLabel.TabIndex = 1;
             // 
             // option1Button
