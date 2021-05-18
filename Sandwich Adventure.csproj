@@ -86,5 +86,83 @@
   <ItemGroup>
     <None Include="Resources\Button-Next-icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skull.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colddoor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\woods.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taxi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coldskull.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paths.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lights.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\construction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lost.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crossroad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\street.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manhole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\398159__inspectorj__ambience-london-street-a.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\457318__stek59__autumn-wind-and-dry-leaves.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\citysound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winner.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hammer.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

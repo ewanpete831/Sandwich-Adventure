@@ -43,9 +43,11 @@ namespace Sandwich_Adventure
             // 
             // imageBox
             // 
+            this.imageBox.Image = global::Sandwich_Adventure.Properties.Resources.door;
             this.imageBox.Location = new System.Drawing.Point(75, 160);
             this.imageBox.Name = "imageBox";
             this.imageBox.Size = new System.Drawing.Size(551, 236);
+            this.imageBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.imageBox.TabIndex = 0;
             this.imageBox.TabStop = false;
             // 
@@ -124,6 +126,7 @@ namespace Sandwich_Adventure
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.SkyBlue;
             this.ClientSize = new System.Drawing.Size(705, 587);
             this.Controls.Add(this.button3Label);
             this.Controls.Add(this.button2Label);
