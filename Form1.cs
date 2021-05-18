@@ -1,4 +1,4 @@
-﻿// Adventure Game made by Ewan Peterson
+﻿// Adventure Game made by Ewan Peterson for ICS3U
 
 using System;
 using System.Collections.Generic;
